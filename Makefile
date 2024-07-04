@@ -1,3 +1,3 @@
 
 run: src/main.rs
-	cargo run
+	cargo run -- data.csv
